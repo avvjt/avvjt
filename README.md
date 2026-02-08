@@ -80,12 +80,12 @@ Currently working remotely at a **NY-based startup**. Open to full-time roles wh
 
 ### 📫 Let's Connect!
 
-<p align="left">
+<!-- <p align="left">
 • 🌍 Kolkata, India <br>
 • ✉️ <a href="mailto:avvjit@gmail.com">avvjit@gmail.com</a> <br>
 • 🔗 <a href="https://linkedin.com/in/avvjt">linkedin.com/in/avvjt</a> <br>
 • 🧑‍💻 <a href="https://github.com/avvjt">github.com/avvjt</a> <br>
-</p>
+</p> -->
 
 ---
 
