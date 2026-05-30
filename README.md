@@ -1,29 +1,27 @@
-<h1 align="center">Hey 👋 I'm Abhijit Biswas</h1>
+<h1 align="center">Hey 👋 its abhi</h1>
 <p align="center">
-  <b>Full-Stack Developer | Ex-Android | MERN / React Native | Cloud & DevOps</b>
+  <b>SDE @connectAide</b>
 </p>
 
 <p align="center">
-  🚀 Building scalable products • 🎯 Focused on backend architecture • 💡 Learning every day
+  Creating/sloving problem at the same time!
 </p>
 
 ---
 
-### 🧑‍💻 About Me
-I started my journey in tech as a curious hacker —  
-**Kali Linux, networks, exploits**… understanding how systems work and how they break.  
-That curiosity evolved into **engineering** — from native Android → React Native →  
-full-stack **MERN & distributed backend systems**.
+###  About Me
+I started my journey in tech as a curious hacker **Kali Linux, networks, exploits**… understanding how systems work and how they break.  
+That curiosity evolved into **engineering** — from native Android to React Native and full-stack **MERN & distributed backend systems**.
 
 Currently working remotely at a **NY-based startup**. Open to full-time roles where I can  
 **design architecture, write clean code, and ship real business value**.
 
 ---
 
-### 🧠 Tech Arsenal
+### Tech Arsenal
 
 **Languages**
-> Java • JavaScript • TypeScript • Python • SQL • XML • HTML • CSS  
+> Java • JavaScript • TypeScript • Python • XML • HTML • CSS  
 
 **Frontend**
 > React • SolidJS • Next.js • Redux • Tailwind • Material UI • Three.js • GSAP  
@@ -46,7 +44,7 @@ Currently working remotely at a **NY-based startup**. Open to full-time roles wh
 
 ---
 
-### 🏢 Experience
+### Experience
 
 **Full-Stack Developer — ConnectAide, New York (Remote)**  
 *Sep 2024 – Present*
