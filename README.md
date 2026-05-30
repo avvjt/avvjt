@@ -44,47 +44,18 @@ Currently working remotely at a **NY-based startup**. Open to full-time roles wh
 
 ---
 
-### Experience
 
-**Full-Stack Developer — ConnectAide, New York (Remote)**  
-*Sep 2024 – Present*
-- Microservices with **Node.js + Express** using JWT/OAuth2 authentication and rate-limiting
-- Optimized schemas across **MongoDB, PostgreSQL, tbDatabase, ScylerDB**
-- Automated CI/CD & serverless flows using **AWS Lambda, CloudFront, S3, Amplify**
-- Crafted interactive UI using **React / SolidJS**, **Three.js + GSAP animations**
 
----
-
-### 🔥 Featured Projects
-
-| Project | Stack | Live | Code |
-|--------|-------|------|------|
-| **Consulting Website + CMS** | Next.js, TS, Tailwind, Node.js | influidity.com | GitHub: *Consulting-influidity* |
-| **LeadSeeder SaaS Platform** | Next.js, TS, Auth, Payments | leadseeder.co | GitHub: *seed* |
-| **Private Capital Admin Panel** | Node.js, React, PostgreSQL | dnhfintech.com | GitHub: *castle* |
-| **Shopkeeper POS App** | Flutter | — | GitHub: *Pos* |
-| **Chat App (Android)** | Java, XML | — | GitHub: *Cllasify* |
-| **Utility Tools** | Multi-stack | — | GitHub: *Volume* + more |
-
----
-
-### 🎯 What I’m Open To
-✔ Full-time backend / full-stack roles  
-✔ Solving large-scale product challenges  
-✔ Working with great engineering teams  
-✔ Remote / Hybrid opportunities  
-
----
 
 ### 📫 Let's Connect!
 
-<!-- <p align="left">
+ <p align="left">
 • 🌍 Kolkata, India <br>
 • ✉️ <a href="mailto:avvjit@gmail.com">avvjit@gmail.com</a> <br>
 • 🔗 <a href="https://linkedin.com/in/avvjt">linkedin.com/in/avvjt</a> <br>
 • 🧑‍💻 <a href="https://github.com/avvjt">github.com/avvjt</a> <br>
-</p> -->
+</p> 
 
 ---
 
-> _“Keep hacking. Keep learning. Keep shipping.”_ 🚀
+> _“Still learning nd somehow building!!.”_ 🚀
